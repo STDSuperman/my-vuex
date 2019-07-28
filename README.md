@@ -284,4 +284,4 @@ export default {
 贴上笔者个人网站地址:
 [烟雨的个人博客](https://xhlqrn.xyz)
 
-源码 github 地址：[my_vuex](https://xhlqrn.xyz)
+源码 github 地址：[my_vuex](https://github.com/STDSuperman/my-vuex)

@@ -2,7 +2,7 @@
   <div id="app">
     {{this.$store.state.a}}
     <br />
-    <span>获得b的值:{{$store.getters.getB}}</span>
+    <span>获得b的值:{{$store.state.a.age}}</span>
     <br />
     <button @click="incrementSync">同步++</button>
     <br />

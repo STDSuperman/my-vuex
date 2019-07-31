@@ -31,7 +31,7 @@
 
 - 先驾轻就熟的`import Vuex from 'vue'`
 - 然后面无表情的`Vue.use(Vuex)`
-- 接着略带得意的`const store=new Vuex({...})`
+- 接着略带得意的`const store=new Vuex.Store({...})`
 - 最后如释重负的在`new Vue`的地方放上`store`
 
 我们从第二个步骤开始研究。

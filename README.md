@@ -1,4 +1,3 @@
-![Vuex](https://user-gold-cdn.xitu.io/2019/7/28/16c37712796845af?w=640&h=360&f=png&s=38156)
 
 ## 前言
 
@@ -282,6 +281,6 @@ export default {
 今天笔者就暂时说到这了，小伙伴觉得有帮助的话就给笔者点个赞呗。
 
 贴上笔者个人网站地址:
-[烟雨的个人博客](https://xhlqrn.xyz)
+[烟雨的个人博客](https://xiaohanglin.site)
 
 源码 github 地址：[my_vuex](https://github.com/STDSuperman/my-vuex)
